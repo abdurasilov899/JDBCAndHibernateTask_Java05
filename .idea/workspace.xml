@@ -12,6 +12,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="JpbToolWindowState">
     <option name="myId2FirstActivated">
@@ -121,7 +122,7 @@
       <updated>1650436161691</updated>
       <workItem from="1650436163029" duration="1105000" />
       <workItem from="1650437470173" duration="299000" />
-      <workItem from="1651337183486" duration="5217000" />
+      <workItem from="1651337183486" duration="5527000" />
     </task>
     <task id="LOCAL-00001" summary="Home_Work_HIbernate">
       <created>1651342319835</created>
@@ -130,7 +131,21 @@
       <option name="project" value="LOCAL" />
       <updated>1651342319835</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Home_Work_HIbernate">
+      <created>1651342621070</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1651342621070</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Home_Work_HIbernate">
+      <created>1651342709506</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1651342709508</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
